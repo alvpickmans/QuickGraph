@@ -41,6 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-src/DynamoGraph/packages.config
 src/DynamoGraph/bin/
+src/DynamoGraph/obj/
 src/DynamoGraph/packages/
+*.suo
+*.FileListAbsolute.txt
+*.cache
